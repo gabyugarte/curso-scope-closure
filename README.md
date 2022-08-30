@@ -1,0 +1,2 @@
+# curso-scope-closure
+JavaScript
